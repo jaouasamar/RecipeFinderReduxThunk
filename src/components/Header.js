@@ -26,12 +26,13 @@ export const SearchIcon=styled.img`
 
 width:36px;
 height:36px;
+mar
 `;
 export const SearchComponent=styled.div`
 display:flex;
 flex-direction:row;
 background-color:white;
-
+justify-content:space-between;
 border-radius:6px;
 width:50%;
 
